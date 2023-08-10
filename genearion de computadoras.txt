@@ -1,0 +1,11 @@
+ 
+la primera generacion de computadora feu creada de 1940-1956, las computadoras eran grandes, lentas y requieran un manteminiento constante. Su programacion se realizaba en lenguaje de maquina y principalmente se utilizaba en aplicaciones cientificas y militares 
+
+la segunda generacion de computadoras fue desde 1956-1963, la ccreacion del transistor permitiola crecion de computadoras mas pequeñas, rapidas y confiables, la programacion se volvio mas facil y acesible, tambien esta generacion necesitaba un enfriamiento y ersan utilizados por instituciones academicas y grandes empresas 
+
+la tercera generacion de computadoras fue desde 1964-1971, la introduccion de los circuitos integrados permitio la creacion de computadoras mas poderosas y eficientes en terminos de energia, en esta epoca se desarrollaron los sistemas operativos lo cual facilitola interracción con las computadoras 
+
+la Cuarta Generación fue desde 1971-1980, en estos años llegaron los microprocesadores que ayudo a la reduccion de tamaño en las computadoras y un aumento en la capacidad de procesamiento, las PCs comenzaron a aparecer en estageneracion, lo que llevo sa popularizar que pudieran tenr sus ordenadores en los hogares y empresas 
+
+la Quinta Generación fue desde 1980s tardíos-presente, se caracteriza por el desarollo de tecnologias de procesamiento paralelo y supercomputadoras, tambien llega la inteligencia artificial y el procesamiento del lenguaje natural. Las computadoras se volvieron mas pequeñas, poderosas y conectadas, dando paso a la era del internet y la computacion en la nube.
+ 
